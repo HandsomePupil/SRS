@@ -12,6 +12,11 @@ Scatter Map of Gene Interaction System
 | 本文档将以系统详情，产品特性，功能性需求，非功能性需求以及用例几个方面对软件进行说明。
 | [TOC]
 
+.. image:: https://github.com/945168786/OMG/blob/master/image/file_chose.png
+  ![q](https://github.com/945168786/OMG/blob/master/image/file_chose.png)
+
+
+
 2. 系统详情
 -----------
 
@@ -29,7 +34,6 @@ Scatter Map of Gene Interaction System
         D[Website] -->|Encapsulation| E(Software)
 
 -  UI设计
-    |UI界面|
 -  软件系统
 -  可用功能 ### 2.3 产品特性
    软件具有以下特点:
